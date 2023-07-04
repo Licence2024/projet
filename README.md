@@ -10,7 +10,7 @@
 
 
 apres avoir cloner, faire:
-- cd elodie_ecommerce
+- cd Ecommerce-laravel-vuejs
 - composer install
 - npm install
 - cp .env.example .env
